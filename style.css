@@ -1,0 +1,26 @@
+body {
+    font-family: "Courier New", Monospace, sans-serif
+}
+
+button,
+li {
+    font-size: 18px;
+}
+
+button.Caprese,
+.Caprese h1,
+.Caprese h2 {
+    background-color: rgb(300,150,150);
+}
+
+button.Sushi,
+.Sushi h1,
+.Sushi h2 {
+    background-color: rgb(150,300,150);
+}
+
+button.Omelette,
+.Omelette h1,
+.Omelette h2 {
+    background-color: rgb(300,300,150);
+}

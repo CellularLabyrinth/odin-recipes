@@ -1,9 +1,10 @@
 body {
-    font-family: "Courier New", Monospace, sans-serif
+    font-family: "Courier New", Monospace, sans-serif;
 }
 
 button,
-li {
+li,
+p {
     font-size: 18px;
 }
 
@@ -23,4 +24,18 @@ button.Omelette,
 .Omelette h1,
 .Omelette h2 {
     background-color: rgb(300,300,150);
+}
+
+button {
+    padding: 8px;
+    display: block;
+}
+
+li {
+    margin-top: 8px;
+    margin-left: -8px;
+}
+
+ul {
+    margin-left: -8px;
 }
